@@ -1,0 +1,76 @@
+{
+  "cats": [
+    {
+      "id": "5326",
+      "name": "PONYO",
+      "age": "13 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/OjnSd2N2p.jpg",
+      "description": "Je me nomme PONYO et je suis vraiment très sympathique",
+      "mode": "Favs"
+    },
+    {
+      "id": "5945",
+      "name": "SQUID",
+      "age": "11 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/DUxU01IY5.jpg",
+      "description": "Je me nomme SQUID et je suis vraiment très sympathique",
+      "mode": "Like"
+    },
+    {
+      "id": "3023",
+      "name": "DESI",
+      "age": "4 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/nS12H9od0.jpg",
+      "description": "Je m'appelle DESI et j'aime bien manger",
+      "mode": "Like"
+    },
+    {
+      "id": "3304",
+      "name": "FLAKE",
+      "age": "8 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/DdmsQrCAv.jpg",
+      "description": "Je m'appelle FLAKE et j'aime bien manger",
+      "mode": "Like"
+    },
+    {
+      "id": "4568",
+      "name": "MERLE",
+      "age": "2 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/IOjBCPLXA.jpg",
+      "description": "Je me nomme MERLE et je suis vraiment très sympathique",
+      "mode": "Like"
+    },
+    {
+      "id": "2375",
+      "name": "BINA",
+      "age": "6 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/5qNv0jHXW.jpg",
+      "description": "Je suis BINA et je cherche a rencontrer quelqu'un :)",
+      "mode": "Favs"
+    },
+    {
+      "id": "5520",
+      "name": "RIELEY",
+      "age": "10 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/wu8gMdmfo.jpg",
+      "description": "Je m'appelle RIELEY et j'aime bien manger",
+      "mode": "Like"
+    },
+    {
+      "id": "966",
+      "name": "GRYPHON",
+      "age": "10 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/gLfmOKHCA.jpg",
+      "description": "Je suis GRYPHON et je cherche a rencontrer quelqu'un :)",
+      "mode": "Like"
+    },
+    {
+      "id": "3891",
+      "name": "JUMBO",
+      "age": "8 years old  ",
+      "img": "https://cdn2.thecatapi.com/images/HVP1wfZF0.jpg",
+      "description": "Je suis JUMBO et je cherche a rencontrer quelqu'un :)",
+      "mode": "Like"
+    }
+  ]
+}
